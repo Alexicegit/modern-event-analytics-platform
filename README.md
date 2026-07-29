@@ -58,9 +58,6 @@ docs/                      Architecture, data model, runbook, Toptal showcase no
 - Customer Segment Contribution
 - Reseller Sales Contribution
 
-## How to Showcase on Toptal
-Use this as your featured project. Mention it as a portfolio implementation, not as a real client project.
-
 **Suggested title:** Modern Event Analytics Platform | Snowflake, dbt, Airflow, Power BI
 
 ## Confidentiality Notice
