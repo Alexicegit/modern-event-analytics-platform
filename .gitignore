@@ -1,0 +1,12 @@
+.env
+*.env
+__pycache__/
+*.pyc
+logs/
+*.log
+.DS_Store
+.ipynb_checkpoints/
+target/
+dbt_packages/
+profiles.yml
+*.pbix
