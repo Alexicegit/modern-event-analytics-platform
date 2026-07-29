@@ -1,0 +1,18 @@
+-- Example Snowflake loading pattern.
+-- Upload CSV files to a named internal stage or use SnowSQL/PUT from local machine.
+
+USE DATABASE EVENT_ANALYTICS_DB;
+USE SCHEMA RAW;
+
+CREATE OR REPLACE FILE FORMAT CSV_FF
+  TYPE = CSV
+  FIELD_OPTIONALLY_ENCLOSED_BY = '"'
+  SKIP_HEADER = 1
+  NULL_IF = ('', 'NULL', 'null');
+
+CREATE OR REPLACE STAGE EVENT_ANALYTICS_STAGE
+  FILE_FORMAT = CSV_FF;
+
+-- Example:
+-- PUT file://data/raw/customers.csv @EVENT_ANALYTICS_STAGE AUTO_COMPRESS=TRUE;
+-- COPY INTO CUSTOMERS_RAW FROM @EVENT_ANALYTICS_STAGE/customers.csv.gz FILE_FORMAT = CSV_FF;

@@ -1,0 +1,1 @@
+select sale_id, event_id, customer_id, reseller_id, sale_date, ticket_type, quantity, unit_price, discount_amount, gross_revenue, net_revenue, payment_status, created_at, updated_at from {{ source('raw', 'TICKET_SALES_RAW') }}

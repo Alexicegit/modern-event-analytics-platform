@@ -1,0 +1,21 @@
+version: 2
+
+models:
+  - name: stg_customers
+    columns:
+      - name: customer_id
+        tests: [not_null, unique]
+  - name: stg_events
+    columns:
+      - name: event_id
+        tests: [not_null, unique]
+      - name: organizer_id
+        tests: [not_null]
+  - name: stg_ticket_sales
+    columns:
+      - name: sale_id
+        tests: [not_null, unique]
+      - name: event_id
+        tests: [not_null]
+      - name: customer_id
+        tests: [not_null]

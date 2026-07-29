@@ -1,0 +1,32 @@
+version: 2
+
+models:
+  - name: fact_ticket_sales
+    description: Paid ticket sales fact table for event analytics reporting.
+    columns:
+      - name: sale_id
+        tests: [not_null, unique]
+      - name: event_id
+        tests:
+          - not_null
+          - relationships:
+              to: ref('dim_event')
+              field: event_id
+      - name: customer_id
+        tests:
+          - not_null
+          - relationships:
+              to: ref('dim_customer')
+              field: customer_id
+  - name: dim_customer
+    columns:
+      - name: customer_id
+        tests: [not_null, unique]
+  - name: dim_event
+    columns:
+      - name: event_id
+        tests: [not_null, unique]
+  - name: dim_reseller
+    columns:
+      - name: reseller_id
+        tests: [not_null, unique]

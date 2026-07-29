@@ -1,0 +1,12 @@
+version: 2
+
+sources:
+  - name: raw
+    database: EVENT_ANALYTICS_DB
+    schema: RAW
+    tables:
+      - name: ORGANIZERS_RAW
+      - name: RESELLERS_RAW
+      - name: CUSTOMERS_RAW
+      - name: EVENTS_RAW
+      - name: TICKET_SALES_RAW

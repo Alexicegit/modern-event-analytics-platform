@@ -1,0 +1,16 @@
+organizer_id,organizer_name,organizer_type,country,created_at,updated_at
+1,Organizer 01,Corporate,India,2024-04-04,2024-07-06
+2,Organizer 02,Independent,Australia,2024-01-18,2024-09-03
+3,Organizer 03,Corporate,UAE,2024-01-12,2024-08-15
+4,Organizer 04,Venue Partner,India,2024-01-04,2024-06-12
+5,Organizer 05,Independent,Australia,2024-03-05,2024-08-17
+6,Organizer 06,Corporate,UAE,2024-01-26,2024-08-31
+7,Organizer 07,Venue Partner,Australia,2024-02-27,2024-08-15
+8,Organizer 08,Agency,India,2024-04-07,2024-09-12
+9,Organizer 09,Independent,United Kingdom,2024-02-13,2024-07-06
+10,Organizer 10,Independent,Australia,2024-04-07,2024-07-14
+11,Organizer 11,Corporate,India,2024-02-18,2024-06-13
+12,Organizer 12,Agency,United States,2024-03-18,2024-07-04
+13,Organizer 13,Corporate,United Kingdom,2024-03-09,2024-06-16
+14,Organizer 14,Venue Partner,India,2024-03-11,2024-07-08
+15,Organizer 15,Agency,UAE,2024-01-25,2024-08-30

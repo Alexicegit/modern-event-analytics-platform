@@ -1,0 +1,61 @@
+event_id,event_name,category,organizer_id,event_city,event_country,event_date,capacity,base_ticket_price,created_at,updated_at
+1,Education Event 01,Technology,1,Sydney,UAE,2024-10-10,750,75,2024-05-06,2024-10-01
+2,Sports Event 02,Technology,1,Dubai,United Kingdom,2024-09-13,750,75,2024-05-28,2024-08-26
+3,Music Event 03,Education,9,Bangalore,UAE,2024-12-28,500,150,2024-07-11,2024-12-04
+4,Business Event 04,Technology,8,Hyderabad,UAE,2024-07-11,2000,150,2024-02-29,2024-06-28
+5,Healthcare Event 05,Business,5,Hyderabad,United Kingdom,2024-12-29,500,100,2024-10-09,2024-12-03
+6,Business Event 06,Healthcare,15,Melbourne,India,2024-12-06,1500,50,2024-09-06,2024-11-22
+7,Business Event 07,Education,2,Dubai,UAE,2024-11-28,3000,100,2024-09-01,2024-11-17
+8,Music Event 08,Technology,9,New York,India,2025-01-16,2000,200,2024-10-24,2024-12-18
+9,Sports Event 09,Sports,12,Bangalore,Australia,2025-01-15,750,50,2024-10-29,2025-01-06
+10,Music Event 10,Education,3,Bangalore,India,2024-08-20,750,250,2024-04-19,2024-08-05
+11,Education Event 11,Education,8,New York,United States,2025-01-10,3000,250,2024-08-24,2024-12-30
+12,Healthcare Event 12,Sports,3,Dubai,India,2025-02-07,1500,150,2024-09-20,2025-01-28
+13,Sports Event 13,Education,1,Melbourne,United States,2025-01-20,500,100,2024-09-23,2025-01-05
+14,Technology Event 14,Sports,14,Melbourne,India,2024-07-10,3000,50,2024-02-23,2024-06-20
+15,Business Event 15,Business,10,London,India,2024-11-07,1500,200,2024-06-17,2024-10-31
+16,Education Event 16,Business,9,Sydney,India,2024-09-21,1500,50,2024-04-11,2024-08-23
+17,Sports Event 17,Healthcare,2,London,Australia,2025-01-31,500,75,2024-09-03,2025-01-16
+18,Education Event 18,Education,10,Sydney,UAE,2024-10-21,1000,100,2024-07-04,2024-10-07
+19,Sports Event 19,Healthcare,10,Hyderabad,UAE,2025-01-15,500,100,2024-11-04,2024-12-28
+20,Business Event 20,Sports,5,New York,United States,2024-12-21,750,100,2024-10-12,2024-12-02
+21,Music Event 21,Sports,5,New York,United Kingdom,2024-12-17,750,200,2024-07-20,2024-12-14
+22,Education Event 22,Business,11,Bangalore,UAE,2024-09-18,750,250,2024-04-22,2024-08-22
+23,Healthcare Event 23,Education,2,New York,United Kingdom,2025-01-06,2000,100,2024-11-05,2024-12-25
+24,Music Event 24,Music,6,Bangalore,United Kingdom,2024-09-18,750,75,2024-07-03,2024-09-13
+25,Sports Event 25,Technology,9,Bangalore,United States,2024-07-20,3000,200,2024-05-17,2024-06-28
+26,Education Event 26,Music,10,Dubai,Australia,2024-09-25,750,75,2024-04-12,2024-09-02
+27,Education Event 27,Music,12,Dubai,India,2025-01-14,1500,100,2024-08-21,2024-12-21
+28,Business Event 28,Education,5,Bangalore,United Kingdom,2024-08-30,750,200,2024-06-01,2024-08-20
+29,Business Event 29,Music,6,New York,United States,2025-01-24,1500,150,2024-08-19,2025-01-14
+30,Business Event 30,Education,9,Dubai,Australia,2025-01-16,750,200,2024-10-31,2024-12-19
+31,Technology Event 31,Healthcare,8,Bangalore,UAE,2024-09-03,2000,50,2024-04-05,2024-08-06
+32,Technology Event 32,Sports,2,Bangalore,Australia,2024-11-10,1000,150,2024-05-19,2024-10-24
+33,Business Event 33,Technology,15,Sydney,United Kingdom,2024-08-07,1000,50,2024-04-16,2024-08-05
+34,Education Event 34,Sports,4,Dubai,India,2024-10-10,1000,75,2024-08-08,2024-09-29
+35,Technology Event 35,Healthcare,11,Melbourne,Australia,2025-02-24,750,50,2024-11-20,2025-01-25
+36,Business Event 36,Healthcare,14,Sydney,United Kingdom,2025-01-29,1500,200,2024-11-30,2024-12-31
+37,Technology Event 37,Sports,4,Bangalore,Australia,2024-07-21,2000,250,2024-03-06,2024-07-04
+38,Technology Event 38,Sports,4,Melbourne,India,2024-10-17,500,75,2024-06-26,2024-09-26
+39,Education Event 39,Business,2,Hyderabad,United Kingdom,2025-01-20,2000,200,2024-11-19,2024-12-30
+40,Education Event 40,Music,12,Sydney,UAE,2024-11-09,1500,50,2024-06-24,2024-10-28
+41,Education Event 41,Business,3,New York,India,2024-08-31,2000,100,2024-06-24,2024-08-14
+42,Education Event 42,Education,9,Hyderabad,United Kingdom,2024-11-17,1500,50,2024-06-29,2024-11-04
+43,Sports Event 43,Healthcare,1,Melbourne,India,2024-10-04,1000,75,2024-05-04,2024-09-12
+44,Technology Event 44,Education,12,Bangalore,UAE,2024-12-08,750,50,2024-08-25,2024-11-20
+45,Healthcare Event 45,Music,14,Bangalore,United Kingdom,2024-09-25,3000,150,2024-05-08,2024-09-19
+46,Music Event 46,Technology,12,Bangalore,United Kingdom,2025-01-24,500,100,2024-10-31,2025-01-22
+47,Music Event 47,Technology,6,Melbourne,United States,2025-01-19,1500,200,2024-09-21,2025-01-10
+48,Healthcare Event 48,Music,5,Melbourne,India,2024-07-10,3000,100,2024-04-07,2024-07-06
+49,Sports Event 49,Business,15,Dubai,United Kingdom,2025-01-21,1500,100,2024-10-30,2025-01-05
+50,Business Event 50,Sports,15,Bangalore,United States,2024-12-25,1000,50,2024-07-25,2024-12-11
+51,Business Event 51,Education,14,Sydney,United States,2024-07-21,1000,100,2024-05-09,2024-07-18
+52,Healthcare Event 52,Sports,5,Dubai,United States,2024-09-22,3000,150,2024-07-03,2024-08-30
+53,Sports Event 53,Business,1,New York,UAE,2024-10-22,2000,150,2024-07-19,2024-10-01
+54,Technology Event 54,Technology,11,New York,United Kingdom,2025-01-19,1000,200,2024-08-10,2024-12-26
+55,Music Event 55,Technology,3,Bangalore,United States,2024-12-21,3000,150,2024-10-18,2024-12-16
+56,Music Event 56,Healthcare,6,Melbourne,United Kingdom,2024-07-18,2000,50,2024-03-03,2024-07-13
+57,Business Event 57,Sports,6,Dubai,India,2024-12-21,2000,75,2024-08-16,2024-12-09
+58,Sports Event 58,Healthcare,5,Sydney,India,2024-10-10,500,250,2024-07-19,2024-09-24
+59,Business Event 59,Education,2,Melbourne,UAE,2024-11-10,3000,150,2024-08-15,2024-10-21
+60,Healthcare Event 60,Business,4,Hyderabad,Australia,2024-09-12,500,150,2024-06-22,2024-08-14

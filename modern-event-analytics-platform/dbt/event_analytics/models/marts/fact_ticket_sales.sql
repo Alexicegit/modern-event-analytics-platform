@@ -1,0 +1,1 @@
+select sale_id, event_id, customer_id, reseller_id, sale_date, ticket_type, quantity, unit_price, discount_amount, gross_revenue, net_revenue, payment_status, created_at, updated_at from {{ ref('stg_ticket_sales') }} where payment_status = 'Paid'

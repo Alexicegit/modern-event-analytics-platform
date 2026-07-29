@@ -1,0 +1,301 @@
+customer_id,customer_name,email,segment,city,country,created_at,updated_at
+1,Customer 001,customer001@example.com,VIP,Sydney,UAE,2024-02-05,2024-08-01
+2,Customer 002,customer002@example.com,Student,New York,United States,2024-04-19,2024-10-23
+3,Customer 003,customer003@example.com,VIP,Melbourne,Australia,2024-02-05,2024-09-04
+4,Customer 004,customer004@example.com,VIP,Hyderabad,India,2024-01-29,2024-07-20
+5,Customer 005,customer005@example.com,Individual,Bangalore,United Kingdom,2024-06-01,2024-07-09
+6,Customer 006,customer006@example.com,VIP,Dubai,United States,2024-04-29,2024-09-06
+7,Customer 007,customer007@example.com,Student,London,India,2024-06-23,2024-10-01
+8,Customer 008,customer008@example.com,Corporate,New York,United States,2024-03-09,2024-10-07
+9,Customer 009,customer009@example.com,Student,Hyderabad,UAE,2024-04-21,2024-07-21
+10,Customer 010,customer010@example.com,VIP,Hyderabad,UAE,2024-05-08,2024-10-06
+11,Customer 011,customer011@example.com,Individual,London,India,2024-06-09,2024-08-08
+12,Customer 012,customer012@example.com,Individual,Sydney,UAE,2024-02-11,2024-09-08
+13,Customer 013,customer013@example.com,Corporate,London,UAE,2024-05-05,2024-07-03
+14,Customer 014,customer014@example.com,Corporate,Melbourne,UAE,2024-03-02,2024-07-08
+15,Customer 015,customer015@example.com,Individual,London,India,2024-01-22,2024-10-02
+16,Customer 016,customer016@example.com,VIP,Bangalore,India,2024-05-16,2024-10-07
+17,Customer 017,customer017@example.com,Individual,Sydney,United Kingdom,2024-05-20,2024-07-22
+18,Customer 018,customer018@example.com,Student,London,United States,2024-04-18,2024-07-28
+19,Customer 019,customer019@example.com,Individual,New York,UAE,2024-04-12,2024-09-24
+20,Customer 020,customer020@example.com,Student,Dubai,United States,2024-04-25,2024-07-16
+21,Customer 021,customer021@example.com,Individual,Sydney,India,2024-03-27,2024-07-03
+22,Customer 022,customer022@example.com,Individual,London,Australia,2024-01-02,2024-07-10
+23,Customer 023,customer023@example.com,Corporate,Sydney,India,2024-01-09,2024-10-19
+24,Customer 024,customer024@example.com,Student,Hyderabad,United States,2024-03-01,2024-08-05
+25,Customer 025,customer025@example.com,VIP,Sydney,United States,2024-02-03,2024-10-01
+26,Customer 026,customer026@example.com,VIP,Sydney,United Kingdom,2024-04-14,2024-07-25
+27,Customer 027,customer027@example.com,Corporate,Hyderabad,United Kingdom,2024-03-31,2024-08-24
+28,Customer 028,customer028@example.com,VIP,Dubai,India,2024-06-21,2024-09-22
+29,Customer 029,customer029@example.com,Corporate,Hyderabad,United Kingdom,2024-03-27,2024-10-11
+30,Customer 030,customer030@example.com,Corporate,Sydney,Australia,2024-02-18,2024-09-07
+31,Customer 031,customer031@example.com,VIP,Sydney,United Kingdom,2024-02-16,2024-08-05
+32,Customer 032,customer032@example.com,VIP,Sydney,India,2024-04-23,2024-10-12
+33,Customer 033,customer033@example.com,Corporate,Hyderabad,United States,2024-01-04,2024-07-12
+34,Customer 034,customer034@example.com,Individual,Sydney,United Kingdom,2024-05-04,2024-08-31
+35,Customer 035,customer035@example.com,Individual,Bangalore,United Kingdom,2024-01-16,2024-07-22
+36,Customer 036,customer036@example.com,VIP,Hyderabad,United Kingdom,2024-03-08,2024-10-27
+37,Customer 037,customer037@example.com,VIP,Melbourne,United Kingdom,2024-06-27,2024-10-02
+38,Customer 038,customer038@example.com,VIP,Sydney,Australia,2024-03-16,2024-07-28
+39,Customer 039,customer039@example.com,Corporate,London,United States,2024-01-16,2024-10-04
+40,Customer 040,customer040@example.com,Student,Hyderabad,India,2024-05-29,2024-08-31
+41,Customer 041,customer041@example.com,Individual,Hyderabad,United States,2024-01-21,2024-10-17
+42,Customer 042,customer042@example.com,Individual,Hyderabad,United States,2024-01-18,2024-09-25
+43,Customer 043,customer043@example.com,Individual,Dubai,India,2024-05-25,2024-08-01
+44,Customer 044,customer044@example.com,Corporate,London,India,2024-04-17,2024-09-23
+45,Customer 045,customer045@example.com,Student,Melbourne,Australia,2024-06-20,2024-09-30
+46,Customer 046,customer046@example.com,Student,Sydney,UAE,2024-04-11,2024-07-17
+47,Customer 047,customer047@example.com,Student,Dubai,UAE,2024-01-19,2024-07-02
+48,Customer 048,customer048@example.com,VIP,London,United States,2024-01-26,2024-07-10
+49,Customer 049,customer049@example.com,Individual,London,UAE,2024-02-03,2024-10-28
+50,Customer 050,customer050@example.com,Student,Hyderabad,Australia,2024-04-04,2024-08-06
+51,Customer 051,customer051@example.com,Individual,Dubai,United States,2024-06-29,2024-08-08
+52,Customer 052,customer052@example.com,Corporate,New York,United States,2024-03-17,2024-10-28
+53,Customer 053,customer053@example.com,Corporate,Sydney,UAE,2024-01-30,2024-10-22
+54,Customer 054,customer054@example.com,Corporate,New York,United States,2024-02-09,2024-08-04
+55,Customer 055,customer055@example.com,Student,London,Australia,2024-03-28,2024-07-27
+56,Customer 056,customer056@example.com,Student,London,United Kingdom,2024-03-05,2024-10-24
+57,Customer 057,customer057@example.com,Corporate,Hyderabad,United Kingdom,2024-03-11,2024-07-06
+58,Customer 058,customer058@example.com,Corporate,Melbourne,Australia,2024-06-12,2024-08-03
+59,Customer 059,customer059@example.com,Individual,New York,United Kingdom,2024-05-21,2024-09-29
+60,Customer 060,customer060@example.com,VIP,London,India,2024-01-29,2024-07-10
+61,Customer 061,customer061@example.com,Individual,London,India,2024-04-04,2024-09-13
+62,Customer 062,customer062@example.com,Individual,Dubai,Australia,2024-01-11,2024-08-09
+63,Customer 063,customer063@example.com,Student,Bangalore,India,2024-04-01,2024-07-27
+64,Customer 064,customer064@example.com,Individual,New York,India,2024-03-31,2024-10-08
+65,Customer 065,customer065@example.com,VIP,London,Australia,2024-03-01,2024-10-19
+66,Customer 066,customer066@example.com,Individual,Bangalore,Australia,2024-04-15,2024-07-04
+67,Customer 067,customer067@example.com,Individual,New York,UAE,2024-04-15,2024-10-11
+68,Customer 068,customer068@example.com,Individual,Melbourne,Australia,2024-06-28,2024-07-14
+69,Customer 069,customer069@example.com,VIP,Bangalore,India,2024-04-30,2024-07-29
+70,Customer 070,customer070@example.com,Individual,Bangalore,United Kingdom,2024-03-30,2024-08-09
+71,Customer 071,customer071@example.com,Individual,Sydney,India,2024-06-17,2024-07-25
+72,Customer 072,customer072@example.com,VIP,Melbourne,UAE,2024-01-18,2024-10-07
+73,Customer 073,customer073@example.com,Student,Melbourne,United States,2024-04-12,2024-09-25
+74,Customer 074,customer074@example.com,Student,Hyderabad,India,2024-03-07,2024-07-23
+75,Customer 075,customer075@example.com,Student,Hyderabad,India,2024-06-01,2024-08-25
+76,Customer 076,customer076@example.com,Student,New York,UAE,2024-04-21,2024-09-16
+77,Customer 077,customer077@example.com,Corporate,Dubai,United States,2024-02-18,2024-08-02
+78,Customer 078,customer078@example.com,Corporate,New York,United Kingdom,2024-01-01,2024-09-05
+79,Customer 079,customer079@example.com,Individual,Melbourne,United Kingdom,2024-01-18,2024-09-24
+80,Customer 080,customer080@example.com,Student,London,UAE,2024-06-18,2024-10-17
+81,Customer 081,customer081@example.com,Corporate,New York,UAE,2024-05-09,2024-08-09
+82,Customer 082,customer082@example.com,VIP,Melbourne,United Kingdom,2024-06-27,2024-08-07
+83,Customer 083,customer083@example.com,Individual,Sydney,United Kingdom,2024-06-19,2024-10-29
+84,Customer 084,customer084@example.com,VIP,New York,Australia,2024-06-06,2024-09-11
+85,Customer 085,customer085@example.com,Student,Dubai,United States,2024-01-01,2024-08-08
+86,Customer 086,customer086@example.com,Student,Sydney,United Kingdom,2024-05-28,2024-09-16
+87,Customer 087,customer087@example.com,Student,Dubai,United Kingdom,2024-04-23,2024-09-25
+88,Customer 088,customer088@example.com,Individual,London,United Kingdom,2024-02-13,2024-09-23
+89,Customer 089,customer089@example.com,Corporate,Melbourne,United States,2024-06-18,2024-09-20
+90,Customer 090,customer090@example.com,Student,Hyderabad,Australia,2024-06-21,2024-08-09
+91,Customer 091,customer091@example.com,Individual,Bangalore,Australia,2024-02-07,2024-07-04
+92,Customer 092,customer092@example.com,Corporate,Sydney,United Kingdom,2024-06-05,2024-10-17
+93,Customer 093,customer093@example.com,Corporate,Dubai,United Kingdom,2024-06-10,2024-09-12
+94,Customer 094,customer094@example.com,Individual,New York,United Kingdom,2024-05-06,2024-08-21
+95,Customer 095,customer095@example.com,Individual,Sydney,India,2024-01-28,2024-10-08
+96,Customer 096,customer096@example.com,VIP,Sydney,Australia,2024-06-27,2024-09-05
+97,Customer 097,customer097@example.com,VIP,Hyderabad,United States,2024-03-04,2024-10-26
+98,Customer 098,customer098@example.com,Corporate,Dubai,Australia,2024-04-28,2024-09-24
+99,Customer 099,customer099@example.com,Student,Bangalore,United Kingdom,2024-06-05,2024-10-13
+100,Customer 100,customer100@example.com,VIP,Bangalore,United States,2024-04-24,2024-10-23
+101,Customer 101,customer101@example.com,Individual,New York,United Kingdom,2024-04-25,2024-08-03
+102,Customer 102,customer102@example.com,Individual,Bangalore,UAE,2024-05-13,2024-09-01
+103,Customer 103,customer103@example.com,Individual,Melbourne,United Kingdom,2024-01-20,2024-09-30
+104,Customer 104,customer104@example.com,Student,Sydney,UAE,2024-03-26,2024-08-10
+105,Customer 105,customer105@example.com,Corporate,Sydney,Australia,2024-02-29,2024-08-19
+106,Customer 106,customer106@example.com,Individual,New York,Australia,2024-01-17,2024-08-23
+107,Customer 107,customer107@example.com,VIP,Melbourne,United States,2024-04-29,2024-08-23
+108,Customer 108,customer108@example.com,Corporate,Sydney,United Kingdom,2024-04-09,2024-10-24
+109,Customer 109,customer109@example.com,Corporate,Bangalore,United States,2024-04-07,2024-08-31
+110,Customer 110,customer110@example.com,Corporate,Melbourne,UAE,2024-04-09,2024-10-18
+111,Customer 111,customer111@example.com,VIP,London,United States,2024-06-03,2024-10-23
+112,Customer 112,customer112@example.com,Individual,Dubai,Australia,2024-03-10,2024-08-25
+113,Customer 113,customer113@example.com,VIP,Hyderabad,United Kingdom,2024-03-27,2024-09-24
+114,Customer 114,customer114@example.com,VIP,New York,Australia,2024-04-29,2024-10-26
+115,Customer 115,customer115@example.com,Individual,London,United States,2024-01-07,2024-10-25
+116,Customer 116,customer116@example.com,VIP,London,United States,2024-06-18,2024-07-04
+117,Customer 117,customer117@example.com,Corporate,New York,United Kingdom,2024-02-04,2024-10-19
+118,Customer 118,customer118@example.com,VIP,Sydney,India,2024-03-07,2024-08-18
+119,Customer 119,customer119@example.com,Student,Sydney,United Kingdom,2024-03-24,2024-08-13
+120,Customer 120,customer120@example.com,VIP,Melbourne,United Kingdom,2024-03-05,2024-10-15
+121,Customer 121,customer121@example.com,Corporate,Dubai,India,2024-05-18,2024-07-07
+122,Customer 122,customer122@example.com,Student,Sydney,India,2024-06-15,2024-07-06
+123,Customer 123,customer123@example.com,Corporate,Sydney,Australia,2024-01-06,2024-09-18
+124,Customer 124,customer124@example.com,Individual,Sydney,Australia,2024-05-01,2024-09-24
+125,Customer 125,customer125@example.com,Corporate,London,Australia,2024-04-29,2024-09-28
+126,Customer 126,customer126@example.com,Student,Bangalore,UAE,2024-02-12,2024-09-16
+127,Customer 127,customer127@example.com,Corporate,Bangalore,Australia,2024-03-20,2024-07-14
+128,Customer 128,customer128@example.com,Corporate,Melbourne,United States,2024-06-22,2024-10-25
+129,Customer 129,customer129@example.com,VIP,Dubai,Australia,2024-01-20,2024-09-14
+130,Customer 130,customer130@example.com,Individual,Hyderabad,UAE,2024-06-24,2024-09-15
+131,Customer 131,customer131@example.com,Corporate,Bangalore,United States,2024-01-11,2024-08-14
+132,Customer 132,customer132@example.com,VIP,New York,UAE,2024-01-18,2024-09-03
+133,Customer 133,customer133@example.com,Student,Hyderabad,United Kingdom,2024-05-05,2024-07-14
+134,Customer 134,customer134@example.com,VIP,Melbourne,United Kingdom,2024-02-09,2024-08-25
+135,Customer 135,customer135@example.com,Individual,New York,United States,2024-06-15,2024-08-04
+136,Customer 136,customer136@example.com,VIP,Dubai,United Kingdom,2024-05-31,2024-08-04
+137,Customer 137,customer137@example.com,Student,Bangalore,Australia,2024-01-23,2024-08-05
+138,Customer 138,customer138@example.com,VIP,Sydney,United Kingdom,2024-05-25,2024-09-17
+139,Customer 139,customer139@example.com,VIP,Melbourne,India,2024-05-06,2024-10-17
+140,Customer 140,customer140@example.com,Student,Sydney,United Kingdom,2024-02-24,2024-08-15
+141,Customer 141,customer141@example.com,Student,Melbourne,UAE,2024-06-01,2024-09-28
+142,Customer 142,customer142@example.com,Student,London,India,2024-05-12,2024-07-25
+143,Customer 143,customer143@example.com,Corporate,Sydney,United Kingdom,2024-05-05,2024-09-10
+144,Customer 144,customer144@example.com,Individual,New York,United Kingdom,2024-06-14,2024-09-30
+145,Customer 145,customer145@example.com,VIP,Dubai,India,2024-01-24,2024-08-07
+146,Customer 146,customer146@example.com,Individual,Dubai,Australia,2024-03-19,2024-09-23
+147,Customer 147,customer147@example.com,Student,Dubai,United States,2024-05-15,2024-08-14
+148,Customer 148,customer148@example.com,VIP,New York,United States,2024-03-25,2024-08-15
+149,Customer 149,customer149@example.com,VIP,Melbourne,UAE,2024-03-05,2024-07-30
+150,Customer 150,customer150@example.com,Corporate,New York,Australia,2024-03-21,2024-07-16
+151,Customer 151,customer151@example.com,Individual,Sydney,Australia,2024-05-03,2024-08-05
+152,Customer 152,customer152@example.com,Student,Hyderabad,Australia,2024-03-16,2024-07-30
+153,Customer 153,customer153@example.com,Student,Sydney,UAE,2024-01-04,2024-09-29
+154,Customer 154,customer154@example.com,Individual,Melbourne,India,2024-01-14,2024-09-09
+155,Customer 155,customer155@example.com,Student,New York,Australia,2024-06-12,2024-10-20
+156,Customer 156,customer156@example.com,VIP,Hyderabad,India,2024-05-26,2024-08-06
+157,Customer 157,customer157@example.com,VIP,Dubai,United Kingdom,2024-03-28,2024-07-24
+158,Customer 158,customer158@example.com,Corporate,Melbourne,United Kingdom,2024-01-30,2024-10-14
+159,Customer 159,customer159@example.com,Corporate,Dubai,United Kingdom,2024-01-19,2024-09-12
+160,Customer 160,customer160@example.com,Corporate,Sydney,Australia,2024-05-24,2024-08-08
+161,Customer 161,customer161@example.com,Corporate,Sydney,India,2024-05-22,2024-10-06
+162,Customer 162,customer162@example.com,VIP,London,United States,2024-06-07,2024-07-29
+163,Customer 163,customer163@example.com,VIP,Dubai,United Kingdom,2024-03-17,2024-10-19
+164,Customer 164,customer164@example.com,VIP,Melbourne,United States,2024-06-07,2024-07-08
+165,Customer 165,customer165@example.com,Corporate,Bangalore,Australia,2024-06-09,2024-07-28
+166,Customer 166,customer166@example.com,Student,New York,India,2024-02-10,2024-07-31
+167,Customer 167,customer167@example.com,Individual,London,India,2024-02-10,2024-07-01
+168,Customer 168,customer168@example.com,VIP,Dubai,United States,2024-04-30,2024-08-07
+169,Customer 169,customer169@example.com,Corporate,Sydney,UAE,2024-06-29,2024-08-06
+170,Customer 170,customer170@example.com,VIP,Hyderabad,Australia,2024-03-08,2024-10-09
+171,Customer 171,customer171@example.com,Individual,Dubai,India,2024-05-19,2024-07-29
+172,Customer 172,customer172@example.com,Individual,Melbourne,Australia,2024-01-19,2024-07-08
+173,Customer 173,customer173@example.com,Individual,Bangalore,UAE,2024-06-01,2024-10-04
+174,Customer 174,customer174@example.com,Student,Dubai,India,2024-04-29,2024-09-27
+175,Customer 175,customer175@example.com,Student,New York,United Kingdom,2024-03-10,2024-09-03
+176,Customer 176,customer176@example.com,VIP,Dubai,India,2024-06-02,2024-07-06
+177,Customer 177,customer177@example.com,VIP,New York,UAE,2024-06-03,2024-08-02
+178,Customer 178,customer178@example.com,Corporate,Hyderabad,Australia,2024-06-21,2024-10-16
+179,Customer 179,customer179@example.com,Corporate,Bangalore,UAE,2024-05-27,2024-07-06
+180,Customer 180,customer180@example.com,Individual,Dubai,United States,2024-06-15,2024-08-26
+181,Customer 181,customer181@example.com,Student,Sydney,United States,2024-04-21,2024-09-20
+182,Customer 182,customer182@example.com,VIP,Hyderabad,United Kingdom,2024-03-30,2024-08-22
+183,Customer 183,customer183@example.com,Student,Melbourne,India,2024-02-11,2024-08-12
+184,Customer 184,customer184@example.com,VIP,New York,United Kingdom,2024-03-14,2024-09-23
+185,Customer 185,customer185@example.com,VIP,Bangalore,United States,2024-01-10,2024-08-28
+186,Customer 186,customer186@example.com,Corporate,Melbourne,UAE,2024-03-23,2024-07-15
+187,Customer 187,customer187@example.com,VIP,Bangalore,United States,2024-01-01,2024-09-23
+188,Customer 188,customer188@example.com,VIP,Dubai,India,2024-02-18,2024-09-05
+189,Customer 189,customer189@example.com,Student,London,United Kingdom,2024-06-09,2024-08-26
+190,Customer 190,customer190@example.com,Corporate,Sydney,UAE,2024-05-20,2024-07-17
+191,Customer 191,customer191@example.com,Student,Dubai,United Kingdom,2024-02-01,2024-07-04
+192,Customer 192,customer192@example.com,Individual,New York,Australia,2024-03-20,2024-09-09
+193,Customer 193,customer193@example.com,Corporate,London,United Kingdom,2024-01-24,2024-07-29
+194,Customer 194,customer194@example.com,Corporate,Dubai,India,2024-06-14,2024-10-15
+195,Customer 195,customer195@example.com,Individual,Dubai,UAE,2024-05-10,2024-09-29
+196,Customer 196,customer196@example.com,Student,Dubai,United Kingdom,2024-04-30,2024-08-01
+197,Customer 197,customer197@example.com,VIP,London,Australia,2024-04-08,2024-07-25
+198,Customer 198,customer198@example.com,Individual,Bangalore,India,2024-03-11,2024-10-07
+199,Customer 199,customer199@example.com,VIP,Melbourne,United States,2024-03-09,2024-10-14
+200,Customer 200,customer200@example.com,Corporate,Melbourne,UAE,2024-05-30,2024-09-13
+201,Customer 201,customer201@example.com,VIP,Bangalore,Australia,2024-04-24,2024-09-07
+202,Customer 202,customer202@example.com,VIP,Melbourne,UAE,2024-05-21,2024-10-06
+203,Customer 203,customer203@example.com,VIP,Dubai,UAE,2024-02-18,2024-09-28
+204,Customer 204,customer204@example.com,Individual,London,United Kingdom,2024-02-29,2024-10-18
+205,Customer 205,customer205@example.com,VIP,Hyderabad,UAE,2024-05-01,2024-09-29
+206,Customer 206,customer206@example.com,VIP,Dubai,Australia,2024-05-06,2024-07-05
+207,Customer 207,customer207@example.com,Individual,London,United States,2024-03-25,2024-10-20
+208,Customer 208,customer208@example.com,Corporate,Bangalore,United Kingdom,2024-01-26,2024-09-06
+209,Customer 209,customer209@example.com,VIP,Hyderabad,Australia,2024-04-14,2024-10-20
+210,Customer 210,customer210@example.com,Individual,Hyderabad,United Kingdom,2024-03-08,2024-08-13
+211,Customer 211,customer211@example.com,VIP,New York,India,2024-03-25,2024-10-18
+212,Customer 212,customer212@example.com,VIP,Melbourne,United Kingdom,2024-05-18,2024-07-05
+213,Customer 213,customer213@example.com,Corporate,Sydney,UAE,2024-02-28,2024-10-04
+214,Customer 214,customer214@example.com,Corporate,Dubai,India,2024-06-11,2024-09-29
+215,Customer 215,customer215@example.com,Corporate,Dubai,Australia,2024-06-26,2024-08-08
+216,Customer 216,customer216@example.com,Corporate,Hyderabad,UAE,2024-01-15,2024-08-07
+217,Customer 217,customer217@example.com,Student,Melbourne,United Kingdom,2024-02-07,2024-08-01
+218,Customer 218,customer218@example.com,VIP,London,Australia,2024-02-13,2024-07-23
+219,Customer 219,customer219@example.com,Corporate,London,United Kingdom,2024-06-07,2024-09-26
+220,Customer 220,customer220@example.com,Individual,Dubai,United States,2024-02-06,2024-07-30
+221,Customer 221,customer221@example.com,VIP,New York,UAE,2024-04-27,2024-08-02
+222,Customer 222,customer222@example.com,Corporate,Bangalore,United Kingdom,2024-03-14,2024-09-25
+223,Customer 223,customer223@example.com,Individual,Hyderabad,United Kingdom,2024-03-29,2024-09-14
+224,Customer 224,customer224@example.com,Student,New York,United Kingdom,2024-06-25,2024-08-02
+225,Customer 225,customer225@example.com,VIP,Bangalore,UAE,2024-02-20,2024-08-19
+226,Customer 226,customer226@example.com,VIP,Hyderabad,Australia,2024-04-07,2024-09-12
+227,Customer 227,customer227@example.com,Student,London,UAE,2024-06-28,2024-08-07
+228,Customer 228,customer228@example.com,Corporate,Bangalore,United Kingdom,2024-03-11,2024-07-02
+229,Customer 229,customer229@example.com,Corporate,London,United Kingdom,2024-03-14,2024-10-08
+230,Customer 230,customer230@example.com,Individual,London,UAE,2024-02-26,2024-09-20
+231,Customer 231,customer231@example.com,Individual,London,UAE,2024-06-22,2024-10-05
+232,Customer 232,customer232@example.com,Individual,New York,India,2024-06-09,2024-09-21
+233,Customer 233,customer233@example.com,Corporate,Melbourne,United Kingdom,2024-01-09,2024-09-13
+234,Customer 234,customer234@example.com,Student,New York,Australia,2024-01-24,2024-10-25
+235,Customer 235,customer235@example.com,Student,Melbourne,United Kingdom,2024-02-14,2024-07-26
+236,Customer 236,customer236@example.com,Individual,Bangalore,United States,2024-04-03,2024-09-06
+237,Customer 237,customer237@example.com,Student,Bangalore,Australia,2024-03-06,2024-10-25
+238,Customer 238,customer238@example.com,VIP,Bangalore,UAE,2024-03-27,2024-10-11
+239,Customer 239,customer239@example.com,Corporate,Dubai,India,2024-02-06,2024-10-05
+240,Customer 240,customer240@example.com,Individual,Bangalore,United Kingdom,2024-05-22,2024-08-16
+241,Customer 241,customer241@example.com,Corporate,Bangalore,United Kingdom,2024-01-04,2024-08-03
+242,Customer 242,customer242@example.com,Corporate,Dubai,UAE,2024-06-21,2024-10-04
+243,Customer 243,customer243@example.com,Student,London,United Kingdom,2024-06-12,2024-10-29
+244,Customer 244,customer244@example.com,Student,Hyderabad,Australia,2024-04-30,2024-07-04
+245,Customer 245,customer245@example.com,Student,London,Australia,2024-06-14,2024-07-09
+246,Customer 246,customer246@example.com,VIP,New York,UAE,2024-06-15,2024-08-22
+247,Customer 247,customer247@example.com,Corporate,Sydney,India,2024-01-10,2024-08-08
+248,Customer 248,customer248@example.com,VIP,Hyderabad,India,2024-03-01,2024-10-22
+249,Customer 249,customer249@example.com,Individual,Dubai,United Kingdom,2024-04-04,2024-09-24
+250,Customer 250,customer250@example.com,VIP,London,Australia,2024-04-16,2024-09-22
+251,Customer 251,customer251@example.com,Corporate,Bangalore,United Kingdom,2024-06-06,2024-08-22
+252,Customer 252,customer252@example.com,Student,Hyderabad,UAE,2024-02-25,2024-08-26
+253,Customer 253,customer253@example.com,VIP,Sydney,UAE,2024-01-26,2024-09-26
+254,Customer 254,customer254@example.com,Student,London,UAE,2024-01-16,2024-08-20
+255,Customer 255,customer255@example.com,Student,Sydney,India,2024-04-26,2024-07-12
+256,Customer 256,customer256@example.com,Individual,New York,United States,2024-01-06,2024-07-07
+257,Customer 257,customer257@example.com,Student,Sydney,Australia,2024-05-24,2024-07-27
+258,Customer 258,customer258@example.com,Corporate,Bangalore,United States,2024-02-23,2024-09-14
+259,Customer 259,customer259@example.com,Individual,Bangalore,Australia,2024-03-25,2024-10-08
+260,Customer 260,customer260@example.com,Individual,Bangalore,United States,2024-01-01,2024-08-05
+261,Customer 261,customer261@example.com,Individual,Sydney,United States,2024-03-05,2024-10-11
+262,Customer 262,customer262@example.com,Individual,Hyderabad,India,2024-02-03,2024-07-02
+263,Customer 263,customer263@example.com,Student,Bangalore,Australia,2024-05-30,2024-08-11
+264,Customer 264,customer264@example.com,Corporate,Sydney,UAE,2024-01-14,2024-07-17
+265,Customer 265,customer265@example.com,VIP,London,India,2024-01-17,2024-08-30
+266,Customer 266,customer266@example.com,VIP,Bangalore,UAE,2024-05-11,2024-09-14
+267,Customer 267,customer267@example.com,Corporate,Dubai,United States,2024-02-26,2024-09-17
+268,Customer 268,customer268@example.com,Corporate,New York,United States,2024-03-18,2024-08-28
+269,Customer 269,customer269@example.com,Corporate,Hyderabad,United Kingdom,2024-04-12,2024-08-24
+270,Customer 270,customer270@example.com,Corporate,Dubai,United Kingdom,2024-01-19,2024-10-24
+271,Customer 271,customer271@example.com,Corporate,Melbourne,United States,2024-02-07,2024-07-09
+272,Customer 272,customer272@example.com,Individual,Melbourne,United States,2024-06-11,2024-09-13
+273,Customer 273,customer273@example.com,Student,Dubai,United States,2024-05-15,2024-08-07
+274,Customer 274,customer274@example.com,VIP,London,United States,2024-04-20,2024-07-13
+275,Customer 275,customer275@example.com,Corporate,Bangalore,United States,2024-02-25,2024-08-25
+276,Customer 276,customer276@example.com,VIP,Sydney,United Kingdom,2024-03-27,2024-10-14
+277,Customer 277,customer277@example.com,VIP,Dubai,United Kingdom,2024-01-25,2024-08-10
+278,Customer 278,customer278@example.com,VIP,Melbourne,UAE,2024-04-05,2024-07-20
+279,Customer 279,customer279@example.com,VIP,Hyderabad,India,2024-01-22,2024-07-12
+280,Customer 280,customer280@example.com,VIP,Hyderabad,UAE,2024-02-03,2024-09-10
+281,Customer 281,customer281@example.com,Corporate,London,United States,2024-05-23,2024-08-12
+282,Customer 282,customer282@example.com,Corporate,Dubai,UAE,2024-06-19,2024-10-29
+283,Customer 283,customer283@example.com,VIP,Bangalore,India,2024-03-14,2024-09-15
+284,Customer 284,customer284@example.com,Student,Melbourne,India,2024-05-27,2024-09-03
+285,Customer 285,customer285@example.com,Individual,Sydney,United Kingdom,2024-02-27,2024-10-17
+286,Customer 286,customer286@example.com,Corporate,Melbourne,United States,2024-04-04,2024-07-15
+287,Customer 287,customer287@example.com,Student,London,Australia,2024-04-19,2024-10-17
+288,Customer 288,customer288@example.com,Corporate,London,UAE,2024-01-08,2024-07-24
+289,Customer 289,customer289@example.com,Student,New York,UAE,2024-03-27,2024-08-14
+290,Customer 290,customer290@example.com,Corporate,Sydney,Australia,2024-05-24,2024-09-23
+291,Customer 291,customer291@example.com,VIP,Hyderabad,Australia,2024-06-11,2024-07-04
+292,Customer 292,customer292@example.com,Corporate,New York,United States,2024-02-25,2024-08-18
+293,Customer 293,customer293@example.com,VIP,Dubai,UAE,2024-02-10,2024-08-17
+294,Customer 294,customer294@example.com,Student,New York,UAE,2024-05-25,2024-09-15
+295,Customer 295,customer295@example.com,Corporate,Hyderabad,Australia,2024-02-10,2024-10-05
+296,Customer 296,customer296@example.com,Corporate,New York,India,2024-03-10,2024-08-26
+297,Customer 297,customer297@example.com,VIP,Dubai,United States,2024-04-23,2024-08-23
+298,Customer 298,customer298@example.com,Student,Sydney,United States,2024-01-30,2024-08-14
+299,Customer 299,customer299@example.com,VIP,Hyderabad,UAE,2024-06-22,2024-09-25
+300,Customer 300,customer300@example.com,VIP,London,UAE,2024-01-12,2024-07-29

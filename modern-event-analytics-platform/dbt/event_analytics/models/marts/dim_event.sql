@@ -1,0 +1,1 @@
+select e.event_id, e.event_name, e.category, e.organizer_id, o.organizer_name, e.event_city, e.event_country, e.event_date, e.capacity, e.base_ticket_price from {{ ref('stg_events') }} e left join {{ ref('stg_organizers') }} o on e.organizer_id = o.organizer_id
